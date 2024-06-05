@@ -1,0 +1,29 @@
+[
+    {
+      "id": "MC0091222",
+      "name": "Máy chiếu",
+      "status": "đang kết nối",
+      "type": "chủ sở hữu",
+      "directory": "Nam Sài Gòn",
+      "owner": "Nguyến Gia Hân",
+      "imageUrl": "assets/image/maychieu.png"
+    },
+    {
+      "id": "MC0091223",
+      "name": "Máy chiếu",
+      "status": "đang kết nối",
+      "type": "chủ sở hữu",
+      "directory": "Nam Sài Gòn",
+      "owner": "Nguyến Gia Hân",
+      "imageUrl": "assets/image/maychieu.png"
+    },
+    {
+      "id": "MC0091224",
+      "name": "Máy chiếu",
+      "status": "đang kết nối",
+      "type": "chủ sở hữu",
+      "directory": "Nam Sài Gòn",
+      "owner": "Nguyến Gia Hân",
+      "imageUrl": "assets/image/maychieu.png"
+    }
+  ]
